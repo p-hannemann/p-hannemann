@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-hannemann)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **p-hannemann/p-hannemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
